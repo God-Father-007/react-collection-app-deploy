@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-collection-app-deploy/static/css/main.87484058.css",
+    "main.js": "/react-collection-app-deploy/static/js/main.ac870ee6.js",
+    "static/media/anime.png": "/react-collection-app-deploy/static/media/anime.72007253ab7bd79d645b.png",
+    "static/media/img-poster-alt.jpg": "/react-collection-app-deploy/static/media/img-poster-alt.07e9358e7fc31410b20f.jpg",
+    "static/media/song.png": "/react-collection-app-deploy/static/media/song.78bfafd633f14aa6631a.png",
+    "index.html": "/react-collection-app-deploy/index.html",
+    "main.87484058.css.map": "/react-collection-app-deploy/static/css/main.87484058.css.map",
+    "main.ac870ee6.js.map": "/react-collection-app-deploy/static/js/main.ac870ee6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87484058.css",
+    "static/js/main.ac870ee6.js"
+  ]
+}
